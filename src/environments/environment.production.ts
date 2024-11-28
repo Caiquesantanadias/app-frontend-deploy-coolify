@@ -1,4 +1,4 @@
-const BACKEND_URL = "http://f8wo8s4ws4wg808gkgsw4k4o.34.163.53.44.sslip.io"; //alterar para o nosso dominio depois
+const BACKEND_URL = "//localhost:9090"; //alterar para o nosso dominio depois
 
 export const environment = {
   BACKEND_URL: BACKEND_URL,
