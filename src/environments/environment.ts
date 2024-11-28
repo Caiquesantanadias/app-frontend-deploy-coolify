@@ -1,4 +1,4 @@
-const BACKEND_URL = "https://bike-back.caiquecode.pro";
+const BACKEND_URL = "http://f8wo8s4ws4wg808gkgsw4k4o.34.163.110.131.sslip.io";
 
 export const environment = {
   BACKEND_URL: BACKEND_URL,
