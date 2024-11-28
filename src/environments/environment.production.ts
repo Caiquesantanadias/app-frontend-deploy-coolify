@@ -1,4 +1,4 @@
-const BACKEND_URL = "https://bike-back.caiquecode.pro"; //alterar para o nosso dominio depois
+const BACKEND_URL = "https://bike-api.caiquecode.pro"; //alterar para o nosso dominio depois
 
 export const environment = {
   BACKEND_URL: BACKEND_URL,
