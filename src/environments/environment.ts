@@ -1,4 +1,4 @@
-const BACKEND_URL = "//localhost:8080";
+const BACKEND_URL = "https://bike-back.caiquecode.pro";
 
 export const environment = {
   BACKEND_URL: BACKEND_URL,
